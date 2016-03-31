@@ -70,11 +70,9 @@ local.properties
 # PDT-specific
 .buildpath
 
-#added by me
-*.xmi
 
 .metadata
-bin/
+bin/*
 tmp/
 *.tmp
 *.bak
@@ -123,3 +121,8 @@ local.properties
 
 # Code Recommenders
 .recommenders/
+
+#######################################################added by me
+!/workspace\ Git/hello/*/biner/
+
+#######################################################added by me
